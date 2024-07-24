@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sTWg933Z)
 
-# Las computadoras modernas están compuestas por diferentes elementos:
-## **hardware:** 
+## Las computadoras modernas están compuestas por diferentes elementos:
+# **hardware:** 
 es el conjunto de componentes físicos de los que está hecho el equipo, es decir, la parte que puedes ver y tocar del dispositivo. Dentro del hardware podemos encontrar:
 -**Monitor:** Dispositivo de salida que muestra la información visual
 -**Memoria Principal (RAM):** Memoria de acceso rápido que almacena temporalmente los datos y programas que está utilizando la CPU.
@@ -13,18 +13,24 @@ es el conjunto de componentes físicos de los que está hecho el equipo, es deci
                 -ALU (Unidad Aritmética Lógica): Realiza operaciones aritméticas y lógicas.
                 -Memoria Interna: Incluye la memoria caché y registros internos.
 
-# Perifericos:
+## Perifericos:
 **Periféricos de Entrada:** Dispositivos que captan los datos introducidos por el usuario y los envían para ser procesados. Ejemplos incluyen el teclado, el ratón, y el escáner.
 **Periféricos de Salida:** Dispositivos que proyectan la información procesada. Ejemplos incluyen la impresora, los altavoces, y el monitor.
 
-## **sofware:**
+# **sofware:**
 Es el conjunto de programas o aplicaciones que hace posible el funcioanmiento del equipo, aqui podemos encontrar los sistemas operativos,aplicaciones,juegos y demas:
 
-# Sistemas Operativos:
+## Sistemas Operativos:
 Son programas esenciales que gestionan los recursos del hardware y proporcionan servicios comunes para las aplicaciones de software como por ejemplo: Windows, macOS, Linux, Android, iOS.
 
 
-# Aplicaciones:
+## Aplicaciones:
 
 Son los programas diseñados para realizar tareas específicas para los usuarios
-Procesadores de texto (Microsoft Word), hojas de cálculo (Excel), programas de presentación (PowerPoint). Navegadores como Google Chrome, Mozilla Firefox, Safari.
+Procesadores de texto (Microsoft Word), hojas de cálculo (Excel), programas de presentación (PowerPoint). Navegadores como Google Chrome, Mozilla Firefox, Safari
+
+## mapa conceptual
+[https://lucid.app/lucidchart/253bca33-0b85-4d98-af79-61dedba55da7/edit?viewport_loc=671%2C224%2C1762%2C1176%2CFYyGF~I3baBy&invitationId=inv_3a914355-aef4-4148-b467-3452818924ac](URL)
+
+
+![Hadware vs sofware](https://assets.epuzzle.info/puzzle/083/336/original.jpg)
